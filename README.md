@@ -2,6 +2,14 @@
 
 A React-based shopping cart interface with essential e-commerce functionality.
 
+## Screenshots
+
+![Shopping Cart Interface](./screenshots/full.png)
+----
+![Shopping Cart Interface](./screenshots/product.png)
+
+
+
 ## Features
 
 1. **Product Grid**: Display products in a grid format, showcasing the name, image, and price of each item.
