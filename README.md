@@ -6,7 +6,7 @@ A React-based shopping cart interface with essential e-commerce functionality.
 
 ![Shopping Cart Interface](./screenshots/full.png)
 ----
-![Shopping Cart Interface](./screenshots/product.png)
+![Shopping Cart Interface](./screenshots/products.png)
 
 
 
